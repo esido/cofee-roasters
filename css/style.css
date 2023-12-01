@@ -182,7 +182,7 @@
   padding: 72px 48px 48px 48px;
 }
 
-.benefits__block:first-of-type {
+.benefits__block:hover {
   background: #0a6260;
 }
 
@@ -297,8 +297,6 @@
 }
 
 .footer {
-  max-width: 1280px;
-  margin: 0 auto;
   background: #2c343e;
   margin-top: 203px;
 }
@@ -344,6 +342,7 @@
 
 .footer__link > a {
   color: #fefcf7;
+  font-size: 20px;
 }
 
 .footer__link > a:hover {
